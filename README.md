@@ -6,4 +6,4 @@ Docker-composeのセットアップが終わったら、中身の各ディレク
 現在のコンテナ
 
 ・redmine：チケット管理CMS
-
+・jenkins：ビルド実行システム
